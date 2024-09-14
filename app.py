@@ -55,7 +55,7 @@ st.header("ATS Tracking System")  # Display a header
 
 # Sidebar setup
 # Add the logo in the sidebar and center it using HTML
-logo_path = r"C:\Users\SURESH BEEKHANI\Desktop\Resume Application Tracking System(ATS)\img\ATS_LOGO.jpg"  # Replace with your logo file path
+logo_path = "img/ATS_LOGO.jpg"  # Replace with your logo file path
 
 # Use markdown with HTML to center the image
 st.sidebar.markdown(
