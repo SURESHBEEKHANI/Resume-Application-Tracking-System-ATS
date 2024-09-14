@@ -61,7 +61,7 @@ logo_path = "img/ATS_LOGO.jpg"  # Replace with your logo file path
 st.sidebar.markdown(
     f"""
     <div style="text-align: center;">
-        <img src="data:image/jpeg;base64,{base64.b64encode(open(logo_path, "rb").read()).decode()}" alt="ATS Logo" width="150">
+        <img src="data:image/jpeg;base64,{base64.b64encode(open(logo_path, "rb").read()).decode()}" alt="ATS Logo" width="50">
     </div>
     """,
     unsafe_allow_html=True
