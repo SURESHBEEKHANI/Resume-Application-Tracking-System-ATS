@@ -3,3 +3,4 @@ python-dotenv
 Pillow
 pdf2image
 google-generativeai
+poppler-utils
