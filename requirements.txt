@@ -5,3 +5,4 @@ pdf2image
 google-generativeai
 poppler-utils
 poppler-utils==0.1.0
+langchain
