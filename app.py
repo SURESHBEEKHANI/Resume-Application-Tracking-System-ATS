@@ -76,7 +76,7 @@ st.set_page_config(page_title="ATS Resume Expert")
 st.header("ATS Tracking System")
 
 # Sidebar setup for file upload, job description input, and logo display
-logo_path = r"C:\Users\SURESH BEEKHANI\Desktop\Resume Application Tracking System(ATS)\img\ATS_LOGO.jpg"
+logo_path = "img/ATS_LOGO.jpg"
 st.sidebar.markdown(
     f"""
     <div style="text-align: center;">
